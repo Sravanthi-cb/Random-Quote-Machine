@@ -1,0 +1,27 @@
+body {
+   background-image: url('images/leafywood.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   text-align: center;
+   font-family: 'Tangerine', serif;
+   font-size: 48px;
+   font-weight: bold;
+
+}
+.centered {
+  word-wrap: break-word;
+  margin: 0 auto;
+  text-align: left;
+  width: 600px;
+}
+h1{
+  font-weight: bold;
+}
+.btn-primary {
+  font-weight: bold;
+  font-size: 30px;
+  border-radius: 30px;
+}
+#date, #time{
+  font-size: 30px;
+}
